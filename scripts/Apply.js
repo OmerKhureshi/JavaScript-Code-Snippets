@@ -10,6 +10,7 @@
     
     If our function has arguments, we can pass those along as well in 'Apply'.
 */
+console.clear(); // clear the chrome browser console.
 
 function applyExample() {
     var obj1 = {

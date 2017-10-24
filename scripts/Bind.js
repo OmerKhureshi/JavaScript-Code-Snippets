@@ -9,6 +9,8 @@
     
     If our function has arguments, we can pass those along as well in 'Bind'.
 */
+console.clear(); // clear the chrome browser console.
+
 function bindExample() {
     
     var obj1 = {
