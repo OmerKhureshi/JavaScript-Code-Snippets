@@ -9,9 +9,9 @@ AJAX can be used to exchange data in XML or JSON format.
 The most important object for AJAX is XMLHttpRequest. Use this object to send and receive data.
 */
 
-console.clear(); // clear the chrome browser console.
 
 function ajaxExample () {
+    console.clear(); // clear the chrome browser console.
     //
     // Send a request to server.
     //

@@ -6,9 +6,10 @@
 
     If our function has arguments, we can pass those along as well in 'Call'.
 */
-console.clear(); // clear the chrome browser console.
 
 function callExample() {
+    console.clear(); // clear the chrome browser console.
+
     var obj1 = {
         num: 2
     };
