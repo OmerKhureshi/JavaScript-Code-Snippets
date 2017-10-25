@@ -1,4 +1,4 @@
-#JavaScript Code Snippets
+# JavaScript Code Snippets
 #### A collection of most frequently used JavaScript code snippets along with short explanations. All the snippets are short and meant to be easily understood.
 
 ## How to use
