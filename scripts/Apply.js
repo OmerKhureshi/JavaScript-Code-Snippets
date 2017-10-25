@@ -23,7 +23,7 @@ function applyExample() {
     };
     
     // 10 is assigned to parameter a in myFunc, and 8 is assigned to b.
-    var result = myFunc.call(obj1, [10, 8]);
+    var result = myFunc.apply(obj1, [10, 8]);
     console.log("Example of apply => " + result);
     
     // Example from MDN.
