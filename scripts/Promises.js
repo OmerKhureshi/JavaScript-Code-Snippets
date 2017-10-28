@@ -1,5 +1,6 @@
 /*
-    A promise object represents some logic that is executed in future.
+    A promise object may or may not have a value now,
+    but will eventually receive a value when asynchronous operation finishes.
     In other words, a promise represents the eventual result of an asynchronous operation.
     It acts like a placeholder for when the async operation will either execute successfully or fail.
 */
